@@ -61,11 +61,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="6" x="0.26125" y="0.7298387096774194" useARA="0" uiLastX_Normal="791"
+  <FILTER uid="6" x="0.23375" y="0.6471774193548387" useARA="0" uiLastX_Normal="791"
           uiLastY_Normal="454" uiopen_Normal="0">
     <PLUGIN name="simplePlugin" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\juce\simplePlugin.vst3"
-            uniqueId="f29cda2b" isInstrument="0" fileTime="183d69eceb9" infoUpdateTime="183d7304782"
+            uniqueId="f29cda2b" isInstrument="0" fileTime="184050007f4" infoUpdateTime="1840500950f"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e9536a16"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -78,11 +78,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="7" x="0.22" y="0.5080645161290323" useARA="0" uiLastX_Normal="278"
+  <FILTER uid="7" x="0.19" y="0.3931451612903226" useARA="0" uiLastX_Normal="278"
           uiLastY_Normal="272" uiopen_Normal="0">
     <PLUGIN name="AudioFilePlayer" format="VST3" category="Fx" manufacturer="Matkat Music LLC"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\juce\AudioFilePlayer.vst3"
-            uniqueId="79fe81c" isInstrument="0" fileTime="183d71500a6" infoUpdateTime="183d7304782"
+            uniqueId="79fe81c" isInstrument="0" fileTime="183d71500a6" infoUpdateTime="18405009519"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e95d02c7"/>
     <STATE>290.VMjLgjQ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DyLy3BTIISX1UEaho2ZVkUdAAkKAwDUigWRWkEcQ0VTucmUY4BQPsTQLolShUELhsVRxHlXIISXyUDagIVTTkUdyYzX0EzQWE0UHomMB0jbPk2RWo1bFgDdEw1XqQiTgYWSC4hKt3hKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UX4BQP4hPqcjXm0jLh4BQP4xPt.0Qt3hKt3hKt3hKtQUUCUEQTg2ZrM1YQcUVDUjQicVP77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
